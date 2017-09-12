@@ -10,6 +10,7 @@ namespace CodingDojo2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("CodingDojo2");
         }
     }
 }
